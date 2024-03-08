@@ -66,22 +66,23 @@ public class Switch {
         System.out.println("Please, enter your name: ");
         Scanner sc = new Scanner(System.in);
         String name = sc.next();
-        Scanner in = new Scanner(System.in);
-        int num = in.nextInt();
 
         switch (name) {
-            case "Sahil":
-                System.out.println("Hello, Admin! Welcome to your space👋");
-                break;
-            case "Jack":{
+            case "Jack":
+                System.out.println("Please, enter your department number: ");
+                Scanner in = new Scanner(System.in);
+                int num = in.nextInt();
                 switch (num) {
                     case 1:
-                        System.out.println("Registered user1! You can access the system🌐");
+                        System.out.println("You're authorized into the dept! You can now access the system🌐");
                         break;
                     case 2:
-                        System.out.println("Registered user2! You can access the system🌐");
-            }
-            }
+                        System.out.println("You're not registered into the dept! You can't access the system🌐");
+                        break;
+                    default:
+                        System.out.println("Enter a valid dept no.");
+                        break;
+            }break;
             case "John":
                 System.out.println("You need administrative rights for accessing this system🚫");
                 break;
