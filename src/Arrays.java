@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Arrays {
 
-//                                Day 1 or Arrays
+//                                Day 1 of Arrays
 //    An array is a data structure that stores a collection of elements of the same type in contiguous memory locations.
 //    Arrays provide efficient random access to elements based on their index.
 //
@@ -39,7 +39,6 @@ public class Arrays {
 
 
 //                               Day 2 of Arrays
-
 //        Program that calculates the sum and average of elements in an array.
     public static void main(String[] args) {
 
