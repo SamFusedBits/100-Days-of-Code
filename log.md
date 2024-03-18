@@ -53,3 +53,15 @@
 **Today's Progress**: Uncovered differences between Checked & Unchecked exceptions in Java.
 
 **Link to work:** [Exceptions](https://github.com/memon-sahil/100-days-of-code/blob/main/src/Exceptions.java)
+
+### Day 10: March 17, 2024
+
+**Today's Progress**: Delved into Java I/O operations (Scanner & Buffer Reader) for efficient input handling/processing.
+
+**Link to work:** [IO operations](https://github.com/memon-sahil/100-days-of-code/blob/main/src/ioOperations.java)
+
+### Day 11: March 18, 2024
+
+**Today's Progress**: Explored common errors in Java: OutOfMemoryError, StackOverflowError, NoClassDefFoundError.
+
+**Link to work:** [Errors](https://github.com/memon-sahil/100-days-of-code/blob/main/src/Errors.java)
