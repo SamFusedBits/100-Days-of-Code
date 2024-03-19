@@ -75,4 +75,35 @@ public class Exceptions {
         private static int divide(int num1, int num2) {
             return num1 / num2;
         }
+
+                            // Day 2 of Exceptions
+
+    /*    NullPointerException (NPE):
+
+    A NullPointerException occurs when you try to access or modify an object reference that points to null.
+
+
+        public static void main(String[] args) {
+            String str = null;
+            System.out.println(str.length()); // NullPointerException
+        }
     }
+*/
+
+/*    ArrayIndexOutOfBoundsException:
+
+    An ArrayIndexOutOfBoundsException occurs when you try to access an array element with an invalid index (either negative or greater than or equal to the array size).
+        public static void main(String[] args) {
+            int[] array = {1, 2, 3};
+            System.out.println(array[3]); // ArrayIndexOutOfBoundsException
+    }
+}*/
+
+/*    NumberFormatException:
+        A NumberFormatException occurs when you try to convert a string to a numeric type (like int or double) but the string does not contain a valid numeric format.
+    public static void main(String[] args) {
+        String str = "abc";
+        int num = Integer.parseInt(str); // NumberFormatException
+    }
+    */
+}
