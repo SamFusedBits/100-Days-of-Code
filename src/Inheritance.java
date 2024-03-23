@@ -98,6 +98,3 @@ public class Inheritance {
         from an existing class (superclass or parent class).
         The subclass inherits properties and behaviors from its superclass,
         allowing code reuse and promoting a hierarchical relationship between classes.  */
-
-
-
