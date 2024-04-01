@@ -76,7 +76,7 @@
 
 **Today's Progress**: Explored packages and interfaces in java
 
-**Link to work:** [Interfaces](https://github.com/memon-sahil/100-days-of-code/blob/main/src/Errors.java)
+**Link to work:** [Interfaces](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Interface.java)
 
 ### Day 14: March 22, 2024
 
