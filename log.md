@@ -65,3 +65,39 @@
 **Today's Progress**: Explored common errors in Java: OutOfMemoryError, StackOverflowError, NoClassDefFoundError.
 
 **Link to work:** [Errors](https://github.com/memon-sahil/100-days-of-code/blob/main/src/Errors.java)
+
+### Day 12: March 19, 2024
+
+**Today's Progress**: Dived into Java's complexities, exploring ArrayIndexOutOfBounds, NullPointerException, NumberFormat
+
+**Link to work:** [Exceptions](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Exceptions.java)
+
+### Day 13: March 21, 2024
+
+**Today's Progress**: Explored packages and interfaces in java
+
+**Link to work:** [Interfaces](https://github.com/memon-sahil/100-days-of-code/blob/main/src/Errors.java)
+
+### Day 14: March 22, 2024
+
+**Today's Progress**: Delved into inheritance in Java, unlocking the dynamic relationship between classes!
+
+**Link to work:** [Inheritance](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Inheritance.java)
+
+### Day 15: March 23 & 24, 2024
+
+**Today's Progress**: Tackled 2 HackerRank questions to solidify my understanding of class hierarchies. Dived deep into method overriding in Java, crafting a simulated game where warriors, wizards, and archers unleash their unique abilities!🗡️✨
+
+**Link to work:** [Inheritance](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Inheritance.java), [MethodOverriding](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/methodOverriding.java)
+
+### Day 16: March 25 & 26, 2024
+
+**Today's Progress**: Tackled 2 HackerRank questions solidifying my understanding of the concept. Delved deep into the concepts of data encapsulation and abstraction in Java!🛡️🔒
+
+**Link to work:** [MethodOverriding](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/methodOverriding.java), [Encapsulation](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Encapsulation.java)
+
+### Day 17: March 27, 2024
+
+**Today's Progress**: Developed a program for a simple bank account system and health data models, ensuring secure data handling and simplified interactions.
+
+**Link to work:** [DataAbstraction](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/DataAbstraction.java)
