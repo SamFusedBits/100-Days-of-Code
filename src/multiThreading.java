@@ -1,6 +1,8 @@
 package src;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
 
 public class multiThreading {
 /*
@@ -151,5 +153,142 @@ class BankAccount {
 
         transferThread1.start();
         transferThread2.start();
+    }
+
+        //Ticketbookingsystem
+    static class TicketBookingSystem {
+        private int availableTickets = 10; // Initial number of available tickets
+
+        // Method to book tickets
+        public synchronized void bookTicket(int numTickets) {
+            if (numTickets > 0 && numTickets <= availableTickets) {
+                availableTickets -= numTickets;
+                System.out.println(Thread.currentThread().getName() + " booked " + numTickets + " tickets.");
+            } else {
+                System.out.println(Thread.currentThread().getName() + " failed to book tickets.");
+            }
+        }
+
+        public static void main(String[] args) {
+            TicketBookingSystem bookingSystem = new TicketBookingSystem();
+
+            // Runnable task for booking tickets
+            Runnable bookTicketsTask = () -> {
+                for (int i = 0; i < 5; i++) {
+                    bookingSystem.bookTicket(1); // Each user books one ticket
+                }
+            };
+
+            // Create multiple threads for concurrent bookings
+            Thread user1 = new Thread(bookTicketsTask, "User 1");
+            Thread user2 = new Thread(bookTicketsTask, "User 2");
+
+            user1.start();
+            user2.start();
+        }
+    }
+
+                                            //Day3 of Multithreading
+/*
+A restaurant where customers place orders and the kitchen prepares the food.
+ We'll model this using multithreading and cover various aspects such as thread creation, synchronization,
+ interruption, and shutdown.
+*/
+
+
+    public static class Order {
+        private final int orderId;
+        private final String dish;
+
+        public Order(int orderId, String dish) {
+            this.orderId = orderId;
+            this.dish = dish;
+        }
+
+        public int getOrderId() {
+            return orderId;
+        }
+
+        public String getDish() {
+            return dish;
+        }
+    }
+
+    public static class Kitchen {
+        private final BlockingQueue<Order> orderQueue;
+
+        public Kitchen(int capacity) {
+            orderQueue = new ArrayBlockingQueue<>(capacity);
+        }
+
+        public void addOrder(Order order) throws InterruptedException {
+            orderQueue.put(order);
+            System.out.println("Order #" + order.getOrderId() + " placed for " + order.getDish());
+        }
+
+        public void prepareOrder() throws InterruptedException {
+            while (true) {
+                Order order = orderQueue.take();
+                System.out.println("Preparing order #" + order.getOrderId() + " for " + order.getDish());
+                // Simulate food preparation time
+                Thread.sleep(2000);
+                System.out.println("Order #" + order.getOrderId() + " for " + order.getDish() + " is ready");
+            }
+        }
+
+        public void closeKitchen() {
+            System.out.println("Kitchen closed");
+        }
+
+
+        public static void main(String[] args) {
+            Kitchen kitchen = new Kitchen(5);
+
+            // Runnable task for adding orders
+            Runnable addOrderTask = () -> {
+                try {
+                    for (int i = 1; i <= 10; i++) {
+                        kitchen.addOrder(new Order(i, "Dish" + i));
+                        Thread.sleep(1000); // Simulate order placement time
+                    }
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                }
+            };
+
+            // Runnable task for preparing orders
+            Runnable prepareOrderTask = () -> {
+                try {
+                    kitchen.prepareOrder();
+                } catch (InterruptedException e) {
+                    System.out.println("Kitchen interrupted");
+                    Thread.currentThread().interrupt();
+                }
+            };
+
+            // Create threads for adding orders and preparing orders
+            Thread addOrderThread = new Thread(addOrderTask);
+            Thread prepareOrderThread = new Thread(prepareOrderTask);
+
+            addOrderThread.start();
+            prepareOrderThread.start();
+
+            // Interrupt preparing orders thread after 5 seconds
+            try {
+                Thread.sleep(5000);
+                prepareOrderThread.interrupt();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+
+            // Wait for preparing orders thread to complete
+            try {
+                prepareOrderThread.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+
+            kitchen.closeKitchen();
+        }
     }
 }
