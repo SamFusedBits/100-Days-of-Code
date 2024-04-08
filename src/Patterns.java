@@ -151,4 +151,52 @@ public class Patterns {
             }
         }
     }
+
+                            //Last Day of Patterns in Java
+
+    public static class StylizedCircuitBoardPattern {
+        public static void main(String[] args) {
+            int size = 9;
+
+            // Upper half of the pattern
+            for (int i = 0; i < size; i++) {
+                // Spaces before numbers
+                for (int j = 0; j < size - i - 1; j++) {
+                    System.out.print("   ");
+                }
+
+                // Increasing
+                for (int j = 0; j <= i; j++) {
+                    System.out.print("/\\ ");
+                }
+
+                // Decreasing
+                for (int j = i - 1; j >= 0; j--) {
+                    System.out.print("\\/ ");
+                }
+
+                System.out.println();
+            }
+
+            // Lower half of the pattern
+            for (int i = size - 2; i >= 0; i--) {
+                // Spaces before numbers
+                for (int j = 0; j < size - i - 1; j++) {
+                    System.out.print("   ");
+                }
+
+                // Increasing
+                for (int j = 0; j <= i; j++) {
+                    System.out.print("/\\ ");
+                }
+
+                // Decreasing
+                for (int j = i - 1; j >= 0; j--) {
+                    System.out.print("\\/ ");
+                }
+
+                System.out.println();
+            }
+        }
+    }
 }
