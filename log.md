@@ -131,3 +131,72 @@
 **Today's Progress**: Learned the concept of nesting and organizing components, JSX for markup and passing props.
 
 **Link to work:** [React](https://react.dev/learn/passing-props-to-a-component)
+
+### Day 23: April 02, 2024
+
+**Today's Progress**: Explored Java threads creation, management.
+
+**Link to work:** [MultiThreading in Java](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/multiThreading.java)
+
+### Day 24: April 03, 2024
+
+**Today's Progress**: Dived deeper into synchronization, coordination, and communication.
+
+**Link to work:** [MultiThreading in Java](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/multiThreading.java)
+
+### Day 25: April 05, 2024
+
+**Today's Progress**: Leveled up my problem-solving skills with some awesome Java patterns! Check out these classic patterns:
+
+Diamond Pattern
+Right Aligned Triangle Pattern
+Number Pattern
+
+**Link to work:** [Diamond, RightAligned, Num Patterns in Java](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Patterns.java)
+
+### Day 26: April 06, 2024
+
+**Today's Progress**: Dived deeper into Java patterns!
+
+X-Square Pattern
+Pascal Triangle
+
+**Link to work:** [X-Square, Pascal](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Patterns.java)
+
+### Day 27: April 07, 2024
+
+**Today's Progress**: Ready for more Java pattern magic? 
+
+Alphabet Pattern
+Number Pattern
+Increasing-Decreasing Numbers Pattern
+
+**Link to work:** [Alphabet, Number, Inc-Dec](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Patterns.java)
+
+### Day 28: April 08, 2024
+
+**Today's Progress**: Finally wrapping up my Java pattern journey with ⚡
+
+Stylized Circuit Board Pattern
+
+**Link to work:** [Stylized Circuit](https://github.com/SamFusedBits/100-days-of-code/blob/main/src/Patterns.java)
+
+### Day 29: April 09, 2024
+
+**Today's Progress**: Solved the "Minimum Points To Reach Destination" problem on GFG POTD(problem of the day). 
+Navigating through a grid with positive, negative, or zero points, I found the minimum initial points needed to reach the destination cell (m-1, n-1) with positive points throughout the path.
+
+**Link to work:** [Min Points problem](https://www.geeksforgeeks.org/problems/minimum-points-to-reach-destination0540/1)
+
+### Day 30: April 10, 2024
+
+**Today's Progress**: cracked the "Party of Couples" puzzle! 🎉 Identified the single person among couples using array manipulation
+
+**Link to work:** [Party of Couples problem](https://www.geeksforgeeks.org/problems/alone-in-couple5507/1)
+
+### Day 31: April 11, 2024
+
+**Today's Progress**: Delved into the "Gray to Binary equivalent" challenge. 
+Decoded the Gray Code, converted it to binary, and returned the decimal representation of the binary equivalent.
+
+**Link to work:** [Gray to Binary problem](https://www.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)
