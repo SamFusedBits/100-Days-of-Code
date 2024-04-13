@@ -200,3 +200,22 @@ Navigating through a grid with positive, negative, or zero points, I found the m
 Decoded the Gray Code, converted it to binary, and returned the decimal representation of the binary equivalent.
 
 **Link to work:** [Gray to Binary problem](https://www.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)
+
+### Day 32: April 12, 2024
+
+**Today's Progress**: I delved into conditional rendering in React, all thanks to the fantastic resources 
+on react.dev! 🌟 Practiced the art of dynamically displaying different JSX elements based on various 
+conditions using if statements, && operator, and ternary operator.
+It's like having a superpower to control what gets rendered on the screen! 💪 
+(Hint: React documentation rocks!)
+
+**Link to work:** [Conditional Rendering in React](https://react.dev/learn/conditional-rendering)
+
+### Day 33: April 13, 2024
+
+**Today's Progress**: Continued my React journey by practicing rendering lists today! 📋 
+Explored how to efficiently render arrays of data into components using the map() method, 
+and also learned the importance of keys in React to maintain proper DOM updates. Additionally, I explored React's perspective on UI as a tree structure, aiding in visualizing component relationships.
+Feeling more confident in my React skills and excited to apply these concepts to my projects! 💻
+
+**Link to work:** [Rendering Lists in React](https://react.dev/learn/rendering-lists)
