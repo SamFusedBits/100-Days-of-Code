@@ -227,3 +227,12 @@ Kicked off the development of my project, an app that aims to solve a potential 
 More juicy details coming your way tomorrow. Stay hyped! 
 
 [Android Application]()
+
+### Day 35: April 15, 2024
+
+**Today's Progress** Implemented user registration functionality in my app. A platform that'll empower 
+and seamlessly connect temporary workers with job opportunities, fostering convenience and reliability in the ever-evolving gig economy.
+Set up the user interface for the registration screen, including input fields for email, password, and 
+other relevant details.
+
+[User Registration Functionality]()
