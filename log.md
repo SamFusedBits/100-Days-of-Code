@@ -236,3 +236,10 @@ Set up the user interface for the registration screen, including input fields fo
 other relevant details.
 
 [User Registration Functionality]()
+
+### Day 36: April 16, 2024
+
+**Today's Progress**  Successfully implemented user registration and login functionalities, setting the stage
+for smooth user interactions. The login screen is now alive, welcoming users to join the journey. Progress feels good! 🔐
+
+[Login Functionality]()
