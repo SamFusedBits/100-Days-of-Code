@@ -230,16 +230,23 @@ More juicy details coming your way tomorrow. Stay hyped!
 
 ### Day 35: April 15, 2024
 
-**Today's Progress** Implemented user registration functionality in my app. A platform that'll empower 
-and seamlessly connect temporary workers with job opportunities, fostering convenience and reliability in the ever-evolving gig economy.
-Set up the user interface for the registration screen, including input fields for email, password, and 
+**Today's Progress**: Implemented user registration functionality in my app. A social media platform that'll empower
+user's in optimizing their online presence, enhance social media strategies and engagement. Set up the user interface for the registration screen, including input fields for email, password, and 
 other relevant details.
 
 [User Registration Functionality]()
 
 ### Day 36: April 16, 2024
 
-**Today's Progress**  Successfully implemented user registration and login functionalities, setting the stage
+**Today's Progress**: Successfully implemented user registration and login functionalities, setting the stage
 for smooth user interactions. The login screen is now alive, welcoming users to join the journey. Progress feels good! 🔐
 
 [Login Functionality]()
+
+### Day 37: April 17, 2024
+
+**Today's Progress**: Started working on developing a machine learning model for trend predictions and 
+user engagement insights on social media. Researched on resources for developing the model. Experimented with Python libraries 
+such as NumPy, Pandas, and Scikit-learn.
+
+[Machine Learning Model]()
