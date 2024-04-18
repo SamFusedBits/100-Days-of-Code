@@ -250,3 +250,11 @@ user engagement insights on social media. Researched on resources for developing
 such as NumPy, Pandas, and Scikit-learn.
 
 [Machine Learning Model]()
+
+### Day 38: April 18, 2024
+
+**Today's Progress**: Tested different datasets today, searched for APIs provided by some of the popular 
+social media platforms, and assessed the categories in which we can make predictions in social media analytics.
+Delving into diverse data sources and API offerings to lay the groundwork for our analytics model.
+
+[Datasets & APIs]()
