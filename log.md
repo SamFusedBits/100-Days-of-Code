@@ -258,3 +258,9 @@ social media platforms, and assessed the categories in which we can make predict
 Delving into diverse data sources and API offerings to lay the groundwork for our analytics model.
 
 [Datasets & APIs]()
+
+### Day 39: April 20, 2024
+
+**Today's Progress**: A lot of research work and found a suitable large dataset for sentiment analysis, cleaned, processed it, and explored different strategies using which we can generate meaningful insights from this data. Continuing to run through data preprocessing techniques and finding out innovative approaches for extracting valuable sentiment insights.
+
+[Data Preprocessing]()
