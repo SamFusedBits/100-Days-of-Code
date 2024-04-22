@@ -264,3 +264,15 @@ Delving into diverse data sources and API offerings to lay the groundwork for ou
 **Today's Progress**: A lot of research work and found a suitable large dataset for sentiment analysis, cleaned, processed it, and explored different strategies using which we can generate meaningful insights from this data. Continuing to run through data preprocessing techniques and finding out innovative approaches for extracting valuable sentiment insights.
 
 [Data Preprocessing]()
+
+### Day 40: April 21, 2024
+
+**Today's Progress**: Explored Streamlit, a powerful tool for building data apps with Python. Created a basic project to delve into its capabilities. The simplicity, user-friendly interface and power of Streamlit have me hooked! 🚀 Excited of leveraging Streamlit's power for my app
+
+[Streamlit](https://streamlit.io/#install)
+
+### Day 41: April 22, 2024
+
+**Today's Progress**: Kicked off my exploration of building an ML model within Streamlit's environment. This intricacies of processing messy datasets, reminds me the efforts behind maintaining a cleaned one. Additionally, I'm experimenting with a potential data source, eager to see if it aligns with my project goals. Stay tuned for the unfolding story!
+
+[Streamlit for ML Model]()
