@@ -312,3 +312,9 @@ Delving into diverse data sources and API offerings to lay the groundwork for ou
 **Today's Progress**: Venturing into a groundbreaking project under expert guidance, shaping an app to redefine anorectal disease prediction. Initiated the homepage UI, laying the foundation for user interaction. A project that has the capability to provide a solution for a potential problem in this field using Machine Learning Models! 🚀🩺
 
 [Healthcare Tech App]()
+
+### Day 48: May 01, 2024
+
+**Today's Progress**: Segmented and processed data for sentiment analysis in my ML model, categorizing it into negative, positive, and neutral categories. Additionally, experimented with exporting the data to JSON and CSV files, providing a rough idea of the model's workings. Although not directly aligned with the project's goals, this exploration will offer valuable insights into the model's functionality. 
+
+[Categorized data into distinct segments - SocialMediaAnalytics ML Model]()
