@@ -249,7 +249,7 @@ for smooth user interactions. The login screen is now alive, welcoming users to 
 user engagement insights on social media. Researched on resources for developing the model. Experimented with Python libraries 
 such as NumPy, Pandas, and Scikit-learn.
 
-[Machine Learning Model]()
+[Machine Learning Model](https://github.com/SamFusedBits/YoutubeSenti)
 
 ### Day 38: April 18, 2024
 
@@ -257,13 +257,13 @@ such as NumPy, Pandas, and Scikit-learn.
 social media platforms, and assessed the categories in which we can make predictions in social media analytics.
 Delving into diverse data sources and API offerings to lay the groundwork for our analytics model.
 
-[Datasets & APIs]()
+[Datasets & APIs](https://github.com/SamFusedBits/YoutubeSenti)
 
 ### Day 39: April 20, 2024
 
 **Today's Progress**: A lot of research work and found a suitable large dataset for sentiment analysis, cleaned, processed it, and explored different strategies using which we can generate meaningful insights from this data. Continuing to run through data preprocessing techniques and finding out innovative approaches for extracting valuable sentiment insights.
 
-[Data Preprocessing]()
+[Data Preprocessing](https://github.com/SamFusedBits/YoutubeSenti)
 
 ### Day 40: April 21, 2024
 
@@ -275,13 +275,13 @@ Delving into diverse data sources and API offerings to lay the groundwork for ou
 
 **Today's Progress**: Kicked off my exploration of building an ML model within Streamlit's environment. This intricacies of processing messy datasets, reminds me the efforts behind maintaining a cleaned one. Additionally, I'm experimenting with a potential data source, eager to see if it aligns with my project goals. Stay tuned for the unfolding story!
 
-[Streamlit for ML Model]()
+[Streamlit for ML Model](https://github.com/SamFusedBits/YoutubeSenti)
 
 ### Day 42: April 24, 2024
 
 **Today's Progress**: Generated a YouTube API key! 🔑 This key will unlock the door to fetch real-time data directly from YouTube, empowering users to input queries and receive insightful analysis powered by machine learning models running behind the scenes. Excited to integrate this functionality, brainstormed about how we can implement this into my model and witness the synergy between data, ML, and user experience. Started implementation process today. Stay tuned for more exciting updates! 
 
-[Youtube's API]()
+[Youtube's API](https://github.com/SamFusedBits/YoutubeSenti)
 
 ### Day 43: April 25, 2024
 
@@ -305,7 +305,7 @@ Delving into diverse data sources and API offerings to lay the groundwork for ou
 
 **Today's Progress**: Explored the vast array of comments fetched from YouTube's API for my ML social media analytics project. Delving into processing these comments to extract valuable insights. Analyzed how this patterns and trends will enrich the analytics capabilities of my project. Onwards and upwards! 📈🔍
 
-[Youtube Video Comments Dataset Preprocessing]()
+[Youtube Video Comments Dataset Preprocessing](https://github.com/SamFusedBits/YoutubeSenti)
 
 ### Day 47: April 29, 2024
 
@@ -317,4 +317,16 @@ Delving into diverse data sources and API offerings to lay the groundwork for ou
 
 **Today's Progress**: Segmented and processed data for sentiment analysis in my ML model, categorizing it into negative, positive, and neutral categories. Additionally, experimented with exporting the data to JSON and CSV files, providing a rough idea of the model's workings. Although not directly aligned with the project's goals, this exploration will offer valuable insights into the model's functionality. 
 
-[Categorized data into distinct segments - SocialMediaAnalytics ML Model]()
+[Categorized data into distinct segments - SocialMediaAnalytics ML Model](https://github.com/SamFusedBits/YoutubeSenti)
+
+### Day 49: May 02, 2024
+
+**Today's Progress**: Crafted a request to fetch comments from a specific YouTube video, specifying the video ID and desired parameters. Executing the request, I received a response containing author names, timestamps, like counts, and the comments themselves. With the DataFrame structured, analyzed its contents, identified patterns and trends that would fuel the project. Used charting libraries like Matplotlib and Plotly to visualize trends and patterns in the comment data.
+
+[Visualizing data using charting libraries](https://github.com/SamFusedBits/YoutubeSenti)
+
+### Day 50: May 03, 2024
+
+**Today's Progress**: Experimented with generating word clouds to highlight frequently occurring words and themes. To add more depth, worked on identifying the top negative and positive comments, providing valuable insights into sentiment analysis. Updated the repo.
+
+[Unveiling Sentiments with Word Clouds & Top comments: YoutubeSenti](https://github.com/SamFusedBits/YoutubeSenti)
