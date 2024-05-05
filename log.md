@@ -330,3 +330,18 @@ Delving into diverse data sources and API offerings to lay the groundwork for ou
 **Today's Progress**: Experimented with generating word clouds to highlight frequently occurring words and themes. To add more depth, worked on identifying the top negative and positive comments, providing valuable insights into sentiment analysis. Updated the repo.
 
 **Link to work:** [Unveiling Sentiments with Word Clouds & Top comments: YoutubeSenti](https://github.com/SamFusedBits/YoutubeSenti)
+
+### Day 51: May 04, 2024
+
+**Today's Progress**: Continued app development by focusing on UX design:
+Improved user interface for better navigation and interaction.
+Enhanced visual elements to make the app more appealing and intuitive.
+Implemented responsive design principles for seamless experience.
+
+**Link to work:** [User experience design - HealthCare app]()
+
+### Day 52: May 05, 2024
+
+**Today's Progress**: Worked on the app for my semester project by integrating Firebase authentication. Implemented login via email and Google functionality, reinforcing security. Also, linked the app to Firebase Realtime Database for efficient data handling. Not that healthcare project, but a significant step forward in my academic journey.
+
+**Link to work:** [Firebase Integration: Sem App]()
