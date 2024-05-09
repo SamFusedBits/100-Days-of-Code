@@ -345,3 +345,27 @@ Implemented responsive design principles for seamless experience.
 **Today's Progress**: Worked on the app for my semester project by integrating Firebase authentication. Implemented login via email and Google functionality, reinforcing security. Also, linked the app to Firebase Realtime Database for efficient data handling. Not that healthcare project, but a significant step forward in my academic journey.
 
 **Link to work:** [Firebase Integration: Sem App]()
+
+### Day 53: May 06, 2024
+
+**Today's Progress**: Designed and implemented the home page of my app, focusing on creating an engaging and intuitive interface to welcome users. Incorporated key features and navigation elements to provide a seamless user experience right from the start. Thrilled to share the news! Selected as a Contributor for GirlScript Summer of Code'24! #GSSoC 🚀
+
+**Link to work:** [GSSoC '24]()
+
+### Day 54: May 07, 2024
+
+**Today's Progress**: Expanded the functionality of my app by adding user profiles and a dashboard feature activities. Users can create and manage their profiles, personalize their settings, and access a centralized dashboard to view relevant information and insights at a glance.
+
+**Link to work:** [User Profiles]()
+
+### Day 55: May 08, 2024
+
+**Today's Progress**: Enhanced the usability of the app by incorporating additional features such as a contact page for user support and a section dedicated to health articles.
+
+**Link to work:** [Contact us Page, Health section]()
+
+### Day 56: May 09, 2024
+
+**Today's Progress**: : Addressed the challenges of UI development on Android, particularly the issue of layout inconsistencies across different devices. Also, discussed improvements for the app, particularly focusing on color schemes. Incorporated the suggestions into the UI design, refining the color palette for a more cohesive and visually pleasing experience.  Additionally, conducted data collection activities to gather insights for further app enhancements.
+
+**Link to work:** [UI Changes Commit, Data Collection]()
