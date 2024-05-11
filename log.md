@@ -369,3 +369,15 @@ Implemented responsive design principles for seamless experience.
 **Today's Progress**: : Addressed the challenges of UI development on Android, particularly the issue of layout inconsistencies across different devices. Also, discussed improvements for the app, particularly focusing on color schemes. Incorporated the suggestions into the UI design, refining the color palette for a more cohesive and visually pleasing experience.  Additionally, conducted data collection activities to gather insights for further app enhancements.
 
 **Link to work:** [UI Changes Commit, Data Collection]()
+
+### Day 57: May 10, 2024
+
+**Today's Progress**: Involved addressing the challenge of adding features for doctors in our app, specifically enabling them to download reports based on predictions that'll be provided to the user's within the application. Through experimentation and evaluation of different approaches, we tried out ways on how to seamlessly integrate this functionality, ensuring it enhances the user experience for both doctors and patients.
+
+**Link to work:** [Addressing features for Doctors in the app]()
+
+### Day 58: May 11, 2024
+
+**Today's Progress**: Explored the projects featured in GSSoC (GirlScript Summer of Code) this year, along with their corresponding repositories. This time there are diverse range of projects being undertaken within the program, fostering an appreciation for the innovative solutions being developed by participating teams. Additionally, worked on the application by introducing a scheduling appointments page. Acknowledging the need for further refinement in it.
+
+**Link to work:** [Appointment Scheduling]()
