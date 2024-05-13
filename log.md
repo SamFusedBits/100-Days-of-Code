@@ -381,3 +381,9 @@ Implemented responsive design principles for seamless experience.
 **Today's Progress**: Explored the projects featured in GSSoC (GirlScript Summer of Code) this year, along with their corresponding repositories. This time there are diverse range of projects being undertaken within the program, fostering an appreciation for the innovative solutions being developed by participating teams. Additionally, worked on the application by introducing a scheduling appointments page. Acknowledging the need for further refinement in it.
 
 **Link to work:** [Appointment Scheduling]()
+
+### Day 59: May 12, 2024
+
+**Today's Progress**: Discovered significant key differences between Java and Kotlin, understanding their unique attributes and benefits. Also, gained hands-on experience in securing user data, emphasizing the critical importance of data protection in application development.
+
+**Link to work:** [Java-Kotlin Differences, User Data Security](https://developer.android.com/kotlin)
