@@ -387,3 +387,15 @@ Implemented responsive design principles for seamless experience.
 **Today's Progress**: Discovered significant key differences between Java and Kotlin, understanding their unique attributes and benefits. Also, gained hands-on experience in securing user data, emphasizing the critical importance of data protection in application development.
 
 **Link to work:** [Java-Kotlin Differences, User Data Security](https://developer.android.com/kotlin)
+
+### Day 60: May 13, 2024
+
+**Today's Progress**: Removed the doctor's dashboard from the main UI of the app. Created separate appointment schedules and a dedicated doctor's dashboard that doctors and their attendant staff can access for adding slots and viewing details. This restructuring aims to streamline the user experience for both patients and healthcare providers.
+
+**Link to work:** [Doctor's Dashboard Separation, Appointment Schedules]()
+
+### Day 61: May 14, 2024
+
+**Today's Progress**: Began working on an eCommerce app, focusing on handmade Ajrakh textiles and other ethnic and vintage products from India. This app aims to provide a unique shopping experience for the modern woman. Stay tuned for more amazing updates!
+
+**Link to work:** [eCommerce App Development for Women of today]()
