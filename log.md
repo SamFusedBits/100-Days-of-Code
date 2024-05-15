@@ -388,13 +388,13 @@ Implemented responsive design principles for seamless experience.
 
 **Link to work:** [Java-Kotlin Differences, User Data Security](https://developer.android.com/kotlin)
 
-### Day 60: May 13, 2024
+### Day 60: May 14, 2024
 
 **Today's Progress**: Removed the doctor's dashboard from the main UI of the app. Created separate appointment schedules and a dedicated doctor's dashboard that doctors and their attendant staff can access for adding slots and viewing details. This restructuring aims to streamline the user experience for both patients and healthcare providers.
 
 **Link to work:** [Doctor's Dashboard Separation, Appointment Schedules]()
 
-### Day 61: May 14, 2024
+### Day 61: May 15, 2024
 
 **Today's Progress**: Began working on an eCommerce app, focusing on handmade Ajrakh textiles and other ethnic and vintage products from India. This app aims to provide a unique shopping experience for the modern woman. Stay tuned for more amazing updates!
 
