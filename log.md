@@ -398,4 +398,34 @@ Implemented responsive design principles for seamless experience.
 
 **Today's Progress**: Began working on an eCommerce app, focusing on handmade Ajrakh textiles and other ethnic and vintage products from India. This app aims to provide a unique shopping experience for the modern woman. Stay tuned for more amazing updates!
 
-**Link to work:** [eCommerce App Development for Women of today]()
+**Link to work:** [eCommerce App Development for Women of today](https://github.com/SamFusedBits/Amrozia)
+
+### Day 62: May 16, 2024
+
+**Today's Progress**: Created a detailed "Contact Us" page for users to easily get in touch with Amrozia. Designed and implemented a "Blog" page to share updates and articles related to Amrozia.
+
+**Link to work:** [Developed Contact Us and Blog Pages](https://github.com/SamFusedBits/Amrozia)
+
+### Day 63: May 17, 2024
+
+**Today's Progress**: Developed the "About Us" page to provide background information about Amrozia. Implemented a "Frequently Asked Questions" (FAQ) page. Addressed common queries to assist users in navigating the app.
+
+**Link to work:** [Implemented About Us and FAQ Pages](https://github.com/SamFusedBits/Amrozia)
+
+### Day 64: May 18, 2024
+
+**Today's Progress**: Collected patients data for KsharSutra application. Added a menu drawer for Amrozia to facilitate seamless navigation across different sections of the app. Included links to the new pages (Contact Us, Blog, About Us, FAQ, & GIft Card).
+
+**Link to work:** [Collected Patients Data for KsharSutra app and Added Menu Drawer Navigation for Amrozia](https://github.com/SamFusedBits/Amrozia)
+
+### Day 65: May 19, 2024
+
+**Today's Progress**: Spent the day debugging and fixing the issue where selecting items in the menu drawer did not redirect to the appropriate activity. Analyzed the code to identify the root cause of the problem, which was related to improper intent handling and activity transitions. Made sure the navigation is smooth and consistent across the app. Tested each menu item to verify it redirects correctly to the intended activity or page. Refactored the menu drawer code to enhance maintainability and readability.
+
+**Link to work:** [Debugging Menu Drawer Issues and Ensuring Seamless Activity Redirection](https://github.com/SamFusedBits/Amrozia)
+
+### Day 66: May 20, 2024
+
+**Today's Progress**: Added functionality to open the email client with pre-filled details for contacting Amrozia support. Users can now easily send emails directly from the app. Implemented click listeners for social media cards (Facebook, Twitter, Instagram, WhatsApp). Initially attempted to use URL redirects but found in-app opening to be more effective for a better user experience. Clicking on the social media cards now opens the respective apps directly, providing a seamless transition.
+
+**Link to work:** [Added Email Functionality and Social Media Platforms Integration](https://github.com/SamFusedBits/Amrozia)
