@@ -429,3 +429,21 @@ Implemented responsive design principles for seamless experience.
 **Today's Progress**: Added functionality to open the email client with pre-filled details for contacting Amrozia support. Users can now easily send emails directly from the app. Implemented click listeners for social media cards (Facebook, Twitter, Instagram, WhatsApp). Initially attempted to use URL redirects but found in-app opening to be more effective for a better user experience. Clicking on the social media cards now opens the respective apps directly, providing a seamless transition.
 
 **Link to work:** [Added Email Functionality and Social Media Platforms Integration](https://github.com/SamFusedBits/Amrozia)
+
+### Day 67: May 21, 2024
+
+**Today's Progress**: Built the initial layout for the products page of my eCommerce app! Added a search bar for easy navigation, a toolbar for quick access to features, and structured the basic views. Gathered the collection of products that'll be displayed too.
+
+**Link to work:** [Initial Layout For Products Page](https://github.com/SamFusedBits/Amrozia)
+
+### Day 68: May 22, 2024
+
+**Today's Progress**: Added products, organized them into 5 categories as per the requirements:
+Mashru Silk Collection,
+Staple Cotton Collection,
+Rayon Collection,
+Premium Rayon Collection,
+Cotton Collection. 
+Loving how it's turning out! 🙌
+
+**Link to work:** [Product Categories Implementation](https://github.com/SamFusedBits/Amrozia)
