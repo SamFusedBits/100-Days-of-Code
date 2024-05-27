@@ -447,3 +447,36 @@ Cotton Collection.
 Loving how it's turning out! 🙌
 
 **Link to work:** [Product Categories Implementation](https://github.com/SamFusedBits/Amrozia)
+
+### Day 69: May 23, 2024
+
+**Today's Progress**: Implemented the layout for the checkout page and the product details page. Ensured both pages have a clean and user-friendly design. The checkout page includes essential fields and a summary of the user's cart, while the product details page displays detailed information and images for each product.
+
+**Link to work:** [Checkout and Product Details Pages](https://github.com/SamFusedBits/Amrozia)
+
+### Day 70: May 24, 2024
+
+**Today's Progress**: Continued refining the checkout and product details pages. Additionally, added a page that'll be dedicated to display all products within a specific category out of the five available categories. This will help users easily browse through related items.
+
+**Link to work:** [Category-Specific Products page](https://github.com/SamFusedBits/Amrozia)
+
+### Day 71: May 25, 2024
+
+**Today's Progress**: Fetched and displayed products in category-specific products page. Set a limit on the home page to display a maximum of 8 products per category. This ensures a streamlined and uncluttered look, improving the overall user experience. 
+
+**Link to work:** [Home Page Product Display Limit per Category](https://github.com/SamFusedBits/Amrozia)
+
+### Day 72: May 26, 2024
+
+**Today's Progress**: Opened issues and PRs in repositories in GSSOC (GirlScript Summer of Code). 
+
+**Link to work:** [GSSOC contributions](https://github.com/SamFusedBits)
+
+### Day 73: May 27, 2024
+
+**Today's Progress**: Clicking on a specific product now features it's multiple images, available sizes, prices, and customer reviews. This enhancement provides users with comprehensive product information.
+
+**Link to work:** [Added features on Product Details Page](https://github.com/SamFusedBits/Amrozia)
+
+
+
