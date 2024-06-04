@@ -478,5 +478,50 @@ Loving how it's turning out! 🙌
 
 **Link to work:** [Added features on Product Details Page](https://github.com/SamFusedBits/Amrozia)
 
+### Day 74: May 28, 2024
 
+**Today's Progress**: Collected patient data for the KsharSutra app. As the data collection process is crucial for the app's functionality, providing users with reliable information for treatment and diagnosis. Resumed work on CricBlitz - A live cricket scores platform.
 
+**Link to work:** [Collected Patient Data for KsharSutra App]()
+
+### Day 75: May 29, 2024
+
+**Today's Progress**: Made significant progress in implementing APIs for live cricket scores in CricBlitz. Preliminary testing done.
+
+**Link to work:** [Backend Development for CricBlitz](https://github.com/SamFusedBits/CricBlitzBackendApi)
+
+### Day 76: May 30, 2024
+
+**Today's Progress**:  Implemented the frontend for CricBlitz using Angular. Designed a card-based layout to display live cricket scores and the latest cricket news. 
+
+**Link to work:** [Frontend Implementation for CricBlitz](https://github.com/SamFusedBits/CricBlitzFrontend)
+
+### Day 77: May 31, 2024
+
+**Today's Progress**: Worked on integrating Vercel for front-end deployment of CricBlitz app, Railway.app for backend hosting, and also done API testings using Postman.
+
+**Link to work:** [Integration of Deployment and Testing Tools for CricBlitz](https://github.com/SamFusedBits/CricBlitzBackendApi)
+
+### Day 78: May 01, 2024
+
+**Today's Progress**: Addressed several bugs regarding the news not properly getting fetched and dispalyed, ensured that the APIs are functioning correctly with seamless communication between the front-end and back-end. Finalized deployment pipelines.
+
+**Link to work:** [Finalized Deployment and Testing for CricBlitz](https://github.com/SamFusedBits/CricBlitzBackendApi)
+
+### Day 79: May 02, 2024
+
+**Today's Progress**: Connected the Amrozia app to Cloud Firestore DB for dynamic data retrieval and Firebase Storage for image management. This integration allows users to view detailed product information with high-quality images. Additionally, it enables admins to add product details and images directly into the Firestore database, streamlining the product management process.
+
+**Link to work:** [Cloud Firestore and Firebase Storage Integration for Amrozia](https://github.com/SamFusedBits/Amrozia)
+
+### Day 80: May 03, 2024
+
+**Today's Progress**: Integrated the page with Cloud Firestore DB and implemented methods to fetch dynamic data for multiple product images and ensure real-time updates. 
+
+**Link to work:** [Product Details Page Implementation for Amrozia](https://github.com/SamFusedBits/Amrozia)
+
+### Day 81: May 04, 2024
+
+**Today's Progress**: Implemented the CartActivity. This feature enables users to add products to their cart, view the cart contents, and proceed to checkout. Integrating with Cloud Firestore DB for real-time cart updates.
+
+**Link to work:** [CartActivity Implementation for Amrozia](https://github.com/SamFusedBits/Amrozia)
