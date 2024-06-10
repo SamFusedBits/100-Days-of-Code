@@ -525,3 +525,33 @@ Loving how it's turning out! 🙌
 **Today's Progress**: Implemented the CartActivity. This feature enables users to add products to their cart, view the cart contents, and proceed to checkout. Integrating with Cloud Firestore DB for real-time cart updates.
 
 **Link to work:** [CartActivity Implementation for Amrozia](https://github.com/SamFusedBits/Amrozia)
+
+### Day 82: June 05, 2024
+
+**Today's Progress**: Enhanced my Android app's cart functionality. Added a detailed cart view where users can manage their items, including adjusting quantities and removing products. Additionally, implemented total cost calculation, factoring in applicable fees to provide users with a comprehensive view of their purchase. Managed various cart operations and ensured that the total amount dynamically updates as items are added or removed.
+
+**Link to work:** [Enhanced Cart Functionality](https://github.com/SamFusedBits/Amrozia)
+
+### Day 83: June 06, 2024
+
+**Today's Progress**: Worked on implementing user profiles. This new feature allows users to have personalized profiles with options to send gift cards to friends and share the app. I also integrated the Amrozia YouTube channel video directly within the app, providing users with easy access to the latest content and tutorials.
+
+**Link to work:** [CUser Profiles and Video Integration](https://github.com/SamFusedBits/Amrozia)
+
+### Day 84: June 07, 2024
+
+**Today's Progress**: Introduced app banners and improved the overall UI. I removed backgrounds from product images for a cleaner, more consistent appearance. Additionally, I focused on storing images in the Firestore database, ensuring that the app loads high-quality images efficiently.
+
+**Link to work:** [UI Improvements and Firestore Integration](https://github.com/SamFusedBits/Amrozia)
+
+### Day 85: June 08, 2024
+
+**Today's Progress**: Worked on automatically setting user names from email addresses and allowing users to change their names if desired. Also organized app sections for better navigation, making the user experience more seamless.
+
+**Link to work:** [User Personalization and Navigation Enhancements](https://github.com/SamFusedBits/Amrozia)
+
+### Day 86: June 10, 2024
+
+**Today's Progress**: Implemented Sign-In with Google, allowing users to log in using their Google accounts. Developed the Order Confirmation Activity. Additionally, I fixed an issue where only one product image was loading in the view page slider within the Details Activity, ensuring that multiple images display correctly. Added password recovery by integrating a one-tap reset email functionality. Users can now easily retrieve their accounts if they forget their passwords.
+
+**Link to work:** [Google Sign-In, Password Recovery and Order Confirmation](https://github.com/SamFusedBits/Amrozia)
