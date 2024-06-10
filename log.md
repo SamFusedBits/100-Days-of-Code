@@ -534,9 +534,9 @@ Loving how it's turning out! 🙌
 
 ### Day 83: June 06, 2024
 
-**Today's Progress**: Worked on implementing user profiles. This new feature allows users to have personalized profiles with options to send gift cards to friends and share the app. I also integrated the Amrozia YouTube channel video directly within the app, providing users with easy access to the latest content and tutorials.
+**Today's Progress**: Worked on implementing user profiles. This new feature allows users to have personalized profiles with options to send gift cards to friends and share the app. Also integrated the Amrozia YouTube channel video directly within the app, providing users with easy access to the latest content and tutorials.
 
-**Link to work:** [CUser Profiles and Video Integration](https://github.com/SamFusedBits/Amrozia)
+**Link to work:** [User Profiles and Video Integration](https://github.com/SamFusedBits/Amrozia)
 
 ### Day 84: June 07, 2024
 
