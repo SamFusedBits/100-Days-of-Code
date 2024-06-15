@@ -586,4 +586,6 @@ Loving how it's turning out! 🙌
 
 **Link to work:** [Appointment Management and Time Slot Handling For Doctor's and Clinic Staff](https://github.com/SamFusedBits/KsharSutra)
 
-  --------------------------------------------------------------------------        Taking a short break for exams; back to coding on July 6th!      ---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+### Taking a short break for exams; back to coding on July 6th!
+-------------------------------------------------------------------------------------
