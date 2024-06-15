@@ -585,3 +585,5 @@ Loving how it's turning out! 🙌
 **Today's Progress**: Implemented appointment management functionality for doctors and clinic staff. Integrated dynamic appointment handling with Firebase Firestore, allowing real-time updates and email notifications for appointment status changes. Categorized appointment by today's and future dates specifically. Facilitating actions such as approving or declining appointment requests, updating statuses, and sending confirmation emails using SendGrid API.
 
 **Link to work:** [Appointment Management and Time Slot Handling For Doctor's and Clinic Staff](https://github.com/SamFusedBits/KsharSutra)
+
+  --------------------------------------------------------------------------        Taking a short break for exams; back to coding on July 6th!      ---------------------------------------------------------------------------------
