@@ -555,3 +555,33 @@ Loving how it's turning out! 🙌
 **Today's Progress**: Implemented Sign-In with Google, allowing users to log in using their Google accounts. Developed the Order Confirmation Activity. Additionally, I fixed an issue where only one product image was loading in the view page slider within the Details Activity, ensuring that multiple images display correctly. Added password recovery by integrating a one-tap reset email functionality. Users can now easily retrieve their accounts if they forget their passwords.
 
 **Link to work:** [Google Sign-In, Password Recovery and Order Confirmation](https://github.com/SamFusedBits/Amrozia)
+
+### Day 87: June 11, 2024
+
+**Today's Progress**: Successfully integrated appointment scheduling into our healthcare app and established a seamless connection with Firebase. Integrated firestore database for storing patient appointment details, schedules and time slots.
+
+**Link to work:** [Appointment Scheduling](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 88: June 12, 2024
+
+**Today's Progress**: Developed backend logic to handle appointment scheduling and real-time data synchronization. This feature ensures that appointments are updated and accessible without delays.
+
+**Link to work:** [Real-Time Appointment Management](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 89: June 13, 2024
+
+**Today's Progress**:  Implemented file upload functionality in the healthcare app, enabling users to upload medical reports securely. Integrated Firebase for storing uploaded files and managing metadata associated with each report. Users can browse and select files from their device, with progress tracked via a visual progress bar.
+
+**Link to work:** [Report Upload Functionality For Patient's](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 90: June 14, 2024
+
+**Today's Progress**: Added the report management module for Doctor's for efficiently displaying and search through uploaded medical reports. Implemented filtering functionality based on patient names and email addresses, leveraging queries for optimized data retrieval.
+
+**Link to work:** [Report Management Module For Doctor's](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 91: June 15, 2024
+
+**Today's Progress**: Implemented appointment management functionality for doctors and clinic staff. Integrated dynamic appointment handling with Firebase Firestore, allowing real-time updates and email notifications for appointment status changes. Categorized appointment by today's and future dates specifically. Facilitating actions such as approving or declining appointment requests, updating statuses, and sending confirmation emails using SendGrid API.
+
+**Link to work:** [Appointment Management and Time Slot Handling For Doctor's and Clinic Staff](https://github.com/SamFusedBits/KsharSutra)
