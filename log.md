@@ -595,3 +595,45 @@ Loving how it's turning out! 🙌
 **Today's Progress**: Back with a bang! Implemented pagination for fetching reports, managed time slots in RecyclerView, and refactored date parsing and exception handling in TimeSlotAdapter. Enhanced date selection and appointment actions, improving management with approval and decline buttons.
 
 **Link to work:** [Reports Management and Appointment Handling](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 93: July 07, 2024
+
+**Today's Progress**: Set display and database date formats for appointments, storing the database date as a tag. Updated multiple XML layouts and project files for better date selection and handling.
+
+**Link to work:** [Date Formats(Selection and Handling)](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 94: July 08, 2024
+
+**Today's Progress**: Implemented file metadata caching for improved performance and efficiency in handling previously uploaded files. Optimizations in profile image handling, focusing on circular display and efficient image caching strategies. 
+
+**Link to work:** [File Metadata Caching and Profile Image Optimization](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 92: July 09, 2024
+
+**Today's Progress**: Implemented caching mechanism for appointments and time slots, increasing performance by reducing Firestore queries and improving data retrieval efficiency.
+
+**Link to work:** [Appointment and Time Slot Caching](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 96: July 10, 2024
+
+**Today's Progress**: Added Questionnaire data class to capture detailed patient information. Integrated functionality in to submit user inputs via Retrofit. Added response handling with ResponseData class for displaying submission results. Created ApiService interface to define POST request method for submitting questionnaires.
+
+**Link to work:** [Questionnaire Submission and API Integration](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 97: July 11, 2024
+
+**Today's Progress**: Enhanced appointment details display in Appointment Adapter for improved clarity and user interaction. Added a background to customize navigation file containers with rounded corners and a stroke for visual distinction.
+
+**Link to work:** [Appointment Details Enhancement, Customization](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 98: July 12, 2024
+
+**Today's Progress**: : Implemented a unified view for all appointments, removing separate sections for today's and future appointments. Enhanced data handling to streamline appointment management. Implemented automatic removal of past appointments for better data management and user experience.
+
+**Link to work:** [Unified Appointment View and Past Appointment Removal](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 99: July 13, 2024
+
+**Today's Progress**: Added a helper function determineMimeType in Report Adapter to determine the MIME type based on file extensions (pdf, jpg, jpeg, png). Updated Report Adapter to handle file clicks with MIME type. Integrated file opening functionality for supporting Google Drive and fallback options for PDF, JPEG, and PNG files.
+
+**Link to work:** [Added determineMimeType Helper Function, Integrated Google Drive and Fallback Options for File Opening](https://github.com/SamFusedBits/KsharSutra)
