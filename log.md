@@ -637,3 +637,12 @@ Loving how it's turning out! 🙌
 **Today's Progress**: Added a helper function determineMimeType in Report Adapter to determine the MIME type based on file extensions (pdf, jpg, jpeg, png). Updated Report Adapter to handle file clicks with MIME type. Integrated file opening functionality for supporting Google Drive and fallback options for PDF, JPEG, and PNG files.
 
 **Link to work:** [Added determineMimeType Helper Function, Integrated Google Drive and Fallback Options for File Opening](https://github.com/SamFusedBits/KsharSutra)
+
+### Day 100: July 14, 2024
+
+**Today's Progress**: Added a TextWatcher in the app to enable real-time search functionality for reports. It listens for changes in the text input & performs actions based on it. 
+Real-time search: As the user types in the searchEditText, the TextWatcher dynamically updates the displayed reports.
+Fetch all reports: If the search text is empty, it fetches all reports.
+Search specific reports: If there is input in the search field, it searches and displays reports that match the search criteria.
+
+**Link to work:** [Added TextWatcher to enable real time report search](https://github.com/SamFusedBits/KsharSutra)
